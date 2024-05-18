@@ -115,6 +115,7 @@ nav ul .active{
   height: 100px;
     width: 300px;
     background-color: #32312F;
+    margin-left: 35px;
     -webkit-box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
 box-shadow: 15px 15px 5px 0px rgba(0,0,0,0.75);
